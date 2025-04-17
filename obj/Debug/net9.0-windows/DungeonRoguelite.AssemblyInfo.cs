@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DungeonRoguelite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d21fa43f3bac24f5c9b76f764e6720b6e6fa27b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("DungeonRoguelite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DungeonRoguelite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
