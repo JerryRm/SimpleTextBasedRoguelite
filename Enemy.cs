@@ -1,4 +1,3 @@
-// Enemy.cs
 // Represents an enemy, their stats, and actions in the game.
 using System;
 
